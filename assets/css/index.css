@@ -36,6 +36,7 @@ a {
 
 .header__logo {
   padding: 10px;
+  box-shadow: 0 4px 2px -2px gray;
 }
 
 .logo--centered {
