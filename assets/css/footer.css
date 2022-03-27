@@ -5,6 +5,12 @@
   color: #fff;
 }
 
+.footer--absolute {
+  bottom: -940px;
+  position: absolute;
+  width: 100%;
+}
+
 .footer__logo {
   width: 120px;
   filter: invert(100%) sepia(100%) saturate(8%) hue-rotate(122deg)
