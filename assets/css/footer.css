@@ -10,12 +10,12 @@
   width: 100%;
 }
 
-.absolute--940 {
-  bottom: -940px;
+.absolute--1000 {
+  bottom: -1000px;
 }
 
-.absolute--1050 {
-  bottom: -1050px;
+.absolute--1130 {
+  bottom: -1130px;
 }
 
 .footer__logo {
