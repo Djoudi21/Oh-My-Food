@@ -6,9 +6,16 @@
 }
 
 .footer--absolute {
-  bottom: -940px;
   position: absolute;
   width: 100%;
+}
+
+.absolute--940 {
+  bottom: -940px;
+}
+
+.absolute--1050 {
+  bottom: -1050px;
 }
 
 .footer__logo {
