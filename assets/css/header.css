@@ -16,6 +16,16 @@
   height: 3.5rem;
 }
 
+.logo--icon {
+  display: flex;
+  align-items: center;
+}
+
+.img--grow {
+  flex-grow: 0.5;
+  text-align: center;
+}
+
 .logo--centered {
   display: flex;
   justify-content: space-around;
