@@ -14,7 +14,7 @@
   flex-direction: column;
 }
 
-.card {
+.step {
   position: relative;
   display: flex;
   justify-content: space-evenly;
@@ -26,12 +26,12 @@
   margin-bottom: 15px;
 }
 
-.card__icon {
+.step__icon {
   margin-right: 5px;
   margin-left: 20px;
 }
 
-.card__number {
+.step__number {
   position: absolute;
   width: 30px;
   height: 30px;
@@ -45,6 +45,6 @@
   background-color: var(--color-primary);
 }
 
-.card__text {
+.step__text {
   font-size: 12px;
 }
