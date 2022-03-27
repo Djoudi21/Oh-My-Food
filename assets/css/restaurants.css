@@ -21,11 +21,12 @@
   margin-bottom: 30px;
   position: relative;
   height: 270px;
+  box-shadow: 0 4px 2px -2px gray;
 }
 
 .card__infos {
   display: flex;
-  margin: 0px 15px;
+  margin: 15px;
   justify-content: space-between;
   align-items: center;
 }
