@@ -1,0 +1,60 @@
+.main {
+  background-image: url(../../assets/images/restaurants/toa-heftiba-DQKerTsQwi0-unsplash.jpg);
+  background-size: contain;
+  position: relative;
+  height: 300px;
+}
+
+.menu {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  position: absolute;
+  top: 200px;
+  width: 100%;
+}
+
+.menu__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.header__title {
+  font-size: 3rem;
+}
+
+.menu__article {
+  margin-bottom: 50px;
+}
+
+.article__title {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.article__item {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 2px -2px gray;
+}
+
+.infos__title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.info--catchphrase {
+  font-size: 1.5rem;
+}
+
+.item__price {
+  align-self: end;
+  font-weight: bold;
+}
