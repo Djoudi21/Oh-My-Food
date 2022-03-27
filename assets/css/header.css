@@ -1,0 +1,23 @@
+.header__logo {
+  padding: 10px;
+  box-shadow: 0 4px 2px -2px gray;
+  height: 8rem;
+}
+
+.header__location {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgrey;
+  height: 5rem;
+}
+
+.header__img {
+  height: 3.5rem;
+}
+
+.logo--centered {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
